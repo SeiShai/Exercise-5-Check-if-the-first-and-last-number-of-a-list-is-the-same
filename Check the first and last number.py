@@ -8,4 +8,8 @@ def check(number_list):
     first_number = number_list[0]
     last_number = number_list [4]
 
+    if first_number == last_number
+        return True
+    else:
+        return False
     
